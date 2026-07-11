@@ -8,37 +8,36 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            Hi everyone! I'm <span className="purple">Kancherla Sapthagiri Naveen</span>{" "}
+            from <span className="purple">India</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            I'm a <span className="purple">Computer Science undergraduate (BE CSE, 3rd year)</span> specializing in{" "}
+            <span className="purple">Artificial Intelligence</span> at{" "}
+            <span className="purple">Sathyabama Institute of Science and Technology</span>.
+            <br />
+            Currently seeking <span className="purple">internship opportunities</span> to apply my technical skills in{" "}
+            <span className="purple">software development and AI-based projects</span>.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
+            Beyond coding, I'm passionate about:
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Building innovative AI solutions 🤖
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Exploring IoT technologies 💡
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Contributing to open source projects 🌍
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Technology is my passion, innovation is my purpose!" 
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Naveen</footer>
         </blockquote>
       </Card.Body>
     </Card>
